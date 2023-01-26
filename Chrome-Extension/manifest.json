@@ -1,0 +1,13 @@
+{
+    "manifest_version": 3,
+    "version": "1.0",
+    "name": "Save Everything",
+    "author": "Shrijal Acharya @OctoPie23",
+    "action": {
+        "default_popup": "index.html",
+        "default_icon": "images/icon-main.png"
+    },
+    "permissions": [
+        "tabs"
+    ]
+}
